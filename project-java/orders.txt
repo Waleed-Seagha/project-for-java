@@ -1,0 +1,4 @@
+Customer: rabee, Order Type: Delivery
+Ordered Items: [Crispy, Orange Juice]
+Total Cost: $12.98
+
